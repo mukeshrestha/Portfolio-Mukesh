@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+/* home */
+/* #particles-js{
+    width: 100%;
+    min-height: 100vh;
+    position: absolute;
+    top: 0; left: 0;
+    background: #7495f0;} */
+    @import "tailwindcss";
+    #Home {
+        background-color: #1a1a2e; /* Dark Blue Background */
+        color: white; /* Ensures text remains visible */
+    }
+    
